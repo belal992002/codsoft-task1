@@ -1,4 +1,4 @@
-Certainly! Below is the detailed README.md file:
+
 
 ---
 
@@ -67,5 +67,4 @@ To use HealthBot, follow these steps:
 1. Instantiate the HealthBot class.
 2. Enter your health-related query.
 3. Receive a response based on predefined rules.
-
-## Coded By Syed Ali Jibran Rizvi
+## coded by belal aziz
